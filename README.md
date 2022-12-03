@@ -8,9 +8,14 @@ pick multiple languages at once.
 
 Grab the binary from github releases or clone the repository and run it from source.
 ```sh
-    git clone 
+    git clone https://github.com/mrwormhole/language-randomizer.git
     go run main.go
 ```
+
+## Screenshot
+
+![language-randomizer-ss](https://user-images.githubusercontent.com/22800416/205465903-51ec0847-30cc-47f3-b361-feded432e67c.png)
+
 
 ## Usage
 
