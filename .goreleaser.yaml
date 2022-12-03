@@ -19,8 +19,8 @@ checksum:
       
 nfpms:
   - maintainer: F. Talha Altinel <talhaaltinel@hotmail.com>
-    description: CLI for quickly building & zipping lambda artifacts
-    homepage: https://github.com/MrWormHole/artificer
+    description: CLI for quickly picking random programming languages
+    homepage: https://github.com/MrWormHole/language-randomizer
     license: MIT
     formats:
       - deb
